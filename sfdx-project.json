@@ -1,0 +1,9 @@
+{
+  "packageDirectories": [{ "path": "force-app", "default": true }],
+  "orgName": "Account Geolocation App",
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1EncryptedStoragePref2": false
+    }
+  }
+}
